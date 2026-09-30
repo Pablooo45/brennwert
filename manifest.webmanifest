@@ -1,0 +1,39 @@
+{
+  "id": "./",
+  "name": "Brennwert",
+  "short_name": "Brennwert",
+  "description": "Essen und Getränke per Freitext eintragen, Kalorien und Makros zusammenrechnen, Nährwerte nachschlagen.",
+  "lang": "de",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EDF0F5",
+  "theme_color": "#EDF0F5",
+  "categories": [
+    "health",
+    "food",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
